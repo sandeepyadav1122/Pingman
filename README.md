@@ -9,7 +9,7 @@ This tool is perfect for system admins, network engineers, penetration testers, 
 
 ### 🔗 Download
 
-[⬇️ Download the latest `.deb` installer](https://github.com/yourusername/ping-checker/releases/latest/download/ping-checker_1.0.0_all.deb)
+[⬇️ Download the latest `.deb` installer](https://github.com/sandeepyadav1122/Pingman/releases/tag/1.0.0)
 
 > Make sure you're on a Debian-based system (Ubuntu/Kali/Pop!\_OS, etc.)
 
